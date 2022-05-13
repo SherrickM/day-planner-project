@@ -2,9 +2,7 @@
 
 ## User Story
 
-```md
-AS AN employee with a busy schedule I WANT to add important events to a daily planner SO THAT I can manage my time effectively
-```
+- AS AN employee with a busy schedule I WANT to add important events to a daily planner SO THAT I can manage my time effectively
 
 ## Acceptance Criteria
 
@@ -21,3 +19,7 @@ AS AN employee with a busy schedule I WANT to add important events to a daily pl
 ## GITHUB REPO
 
 > https://github.com/SherrickM/day-planner-project
+
+## Launched Application
+
+> https://sherrickm.github.io/day-planner-project
