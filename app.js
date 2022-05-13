@@ -29,7 +29,7 @@ $('#18 .description').val(localStorage.getItem('18'))
 
 // WHEN I view the timeblocks for that day // THEN each timeblock is color coded to indicate whether it is in the past, present, or future
 
-console.log();
+
 
 function timeEL(){
   let currentTime = moment().hours();
